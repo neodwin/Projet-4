@@ -702,6 +702,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
 }
 
 h2 {
@@ -776,6 +779,8 @@ h4 {
 
 .tc-white {
     color: white!important;
+    font-weight: bold;
+    font-size: xx-large;
 }
 
 .btn-atomic-tangerine {
